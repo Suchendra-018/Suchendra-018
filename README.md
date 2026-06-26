@@ -59,12 +59,12 @@ Cambridge Institute of Technology • Bengaluru, India
 
 <tr>
 
-<td>
+<td  align="center" >
 
 <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suchendra-018&layout=compact&hide_border=true&theme=github_dark"/>
 
 </td>
-<td>
+<td  align="center">
 
 <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Suchendra-018&theme=github_dark"/>
 
