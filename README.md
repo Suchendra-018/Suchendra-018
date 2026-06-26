@@ -32,46 +32,6 @@ Cambridge Institute of Technology • Bengaluru, India
 
 ---
 
-<h2 align="center">GitHub Analytics</h2>
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td align="center">
-
-<img height="190" src="https://streak-stats.demolab.com?user=Suchendra-018&theme=github-dark-blue&hide_border=true"/>
-
-</td>
-
-<td align="center">
-
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suchendra-018&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Suchendra-018&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Suchendra-018&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
 
 <h2 align="center">GitHub Dashboard</h2>
 
