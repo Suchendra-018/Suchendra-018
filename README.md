@@ -4,17 +4,25 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Artificial+Intelligence+Enthusiast;Backend+Developer;Building+Real+World+Applications"/>
+# Suchendra A
 
-<br><br>
+### Information Science Engineering
+
+Cambridge Institute of Technology • Bengaluru, India
+
+<br>
 
 <a href="mailto:suchendra017@gmail.com">
 <img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+&nbsp;
+
 <a href="https://www.linkedin.com/in/suchendra-a-181718abd/">
 <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+&nbsp;
 
 <a href="assets/resume.pdf">
 <img src="https://img.shields.io/badge/Resume-181717?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
@@ -24,58 +32,27 @@
 
 ---
 
-## About
-
-Information Science Engineering student at **Cambridge Institute of Technology, Bengaluru** with an interest in **Full Stack Development**, **Artificial Intelligence**, **Machine Learning**, and **Backend Engineering**. I enjoy building modern software that solves real-world problems through clean architecture and practical development.
-
----
-## GitHub Dashboard
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Suchendra-018&label=Profile%20Views&style=for-the-badge&color=181717"/>
-
-<img src="https://img.shields.io/github/followers/Suchendra-018?label=Followers&style=for-the-badge&color=181717"/>
-
-<img src="https://img.shields.io/github/stars/Suchendra-018?affiliations=OWNER&label=Stars&style=for-the-badge&color=181717"/>
-
-</div>
-
-<br>
-
 <table align="center">
 
 <tr>
 
-<td width="50%" align="center">
+<td width="32%" align="center">
 
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=Suchendra-018&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=github_dark"/>
-
-</td>
-
-<td width="50%" align="center">
-
-<img height="180"
-src="https://streak-stats.demolab.com?user=Suchendra-018&theme=github-dark-blue&hide_border=true"/>
+<img src="assets/profile.png" width="190"/>
 
 </td>
 
-</tr>
+<td width="68%" valign="top">
 
-<tr>
+## About
 
-<td width="50%" align="center">
+🎓 Information Science Engineering Student
 
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suchendra-018&layout=compact&langs_count=8&hide_border=true&theme=github_dark"/>
+🏫 Cambridge Institute of Technology
 
-</td>
+💻 Interested in Software Engineering, Backend Development and Artificial Intelligence
 
-<td width="50%" align="center">
-
-<img height="180"
-src="https://github-profile-trophy.vercel.app/?username=Suchendra-018&theme=onestar&column=2&margin-w=15&margin-h=15&no-bg=true&no-frame=true"/>
+🚀 Building practical software through modern technologies and continuous learning
 
 </td>
 
@@ -83,13 +60,93 @@ src="https://github-profile-trophy.vercel.app/?username=Suchendra-018&theme=ones
 
 </table>
 
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td>
+
+<img height="185" src="https://github-readme-stats.vercel.app/api?username=Suchendra-018&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=github_dark"/>
+
+</td>
+
+<td>
+
+<img height="185" src="https://streak-stats.demolab.com?user=Suchendra-018&theme=github-dark-blue&hide_border=true"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suchendra-018&layout=compact&langs_count=8&hide_border=true&theme=github_dark"/>
+
+</td>
+
+<td>
+
+<img height="185" src="https://github-profile-trophy.vercel.app/?username=Suchendra-018&theme=onestar&column=2&margin-h=15&margin-w=15&no-frame=true&no-bg=true"/>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
 <br>
 
-<img width="100%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=Suchendra-018&theme=github-dark&hide_border=true"/>
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Suchendra-018&theme=github-dark&hide_border=true"/>
+
+</div>
 
 ---
-## Technology Stack
+
+# GitHub Overview
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suchendra-018&theme=github_dark"/>
+
+</div>
+
+<br>
+
+<table>
+
+<tr>
+
+<td>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Suchendra-018&theme=github_dark"/>
+
+</td>
+
+<td>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Suchendra-018&theme=github_dark&utcOffset=5.5"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# Technology Stack
 
 <div align="center">
 
@@ -101,7 +158,7 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Suchendra-01
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,js,python,java,php"/>
+<img src="https://skillicons.dev/icons?i=cpp,js,python,php"/>
 
 </td>
 
@@ -139,9 +196,9 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Suchendra-01
 
 <img src="https://skillicons.dev/icons?i=tensorflow"/>
 
-<br><br>
+<br>
 
-<sub>TensorFlow • Keras • CNN • Pandas • NumPy</sub>
+TensorFlow • Keras • CNN
 
 </td>
 
@@ -157,71 +214,159 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Suchendra-01
 
 </table>
 
+</div>
+
 ---
-## Live Applications
+# Live Applications
 
 <div align="center">
+
+<table>
+
+<tr>
+
+<td width="33%" align="center">
+
+### 📋 Task Manager
+
+Modern task management platform built using the MERN Stack featuring authentication, dashboards and responsive UI.
+
+<br>
 
 <a href="https://task-manager-snqr.onrender.com/">
-<img src="https://img.shields.io/badge/Task_Manager-Open-181717?style=for-the-badge&logo=render&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Launch_Application-181717?style=for-the-badge&logo=render&logoColor=white"/>
+
 </a>
 
-  
+</td>
+
+<td width="33%" align="center">
+
+### 🏎️ F1 MapFeed
+
+Formula One telemetry visualization platform powered by FastF1 and Flask.
+
+<br>
 
 <a href="https://f1-mapfeed.onrender.com/">
-<img src="https://img.shields.io/badge/F1_MapFeed-Open-181717?style=for-the-badge&logo=render&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Launch_Application-181717?style=for-the-badge&logo=render&logoColor=white"/>
+
 </a>
 
-  
+</td>
+
+<td width="33%" align="center">
+
+### 🤖 Digit Recognition
+
+CNN powered handwritten digit recognition application built using TensorFlow.
+
+<br>
 
 <a href="https://handwritten-digit-recognition-xvww.onrender.com/">
-<img src="https://img.shields.io/badge/Digit_Recognition-Open-181717?style=for-the-badge&logo=render&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Launch_Application-181717?style=for-the-badge&logo=render&logoColor=white"/>
+
 </a>
 
-</div>
+</td>
+
+</tr>
+
+</table>
 
 ---
-## Contribution Snake
+
+# Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Suchendra-018/Suchendra-018/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+<img width="100%" src="https://raw.githubusercontent.com/Suchendra-018/Suchendra-018/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
 ---
-## GitHub Metrics
+
+# GitHub Metrics
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Suchendra-018/Suchendra-018/output/github-metrics.svg" alt="GitHub Metrics"/>
+<img width="100%" src="https://raw.githubusercontent.com/Suchendra-018/Suchendra-018/output/github-metrics.svg"/>
 
 </div>
 
 ---
-## GitHub Metrics
+
+# Development Statistics
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Suchendra-018/Suchendra-018/output/github-metrics.svg" alt="GitHub Metrics"/>
+<table>
+
+<tr>
+
+<td>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Suchendra-018&theme=github_dark"/>
+
+</td>
+
+<td>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Suchendra-018&theme=github_dark"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Suchendra-018&theme=github_dark"/>
+
+</td>
+
+<td>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Suchendra-018&theme=github_dark&utcOffset=5.5"/>
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
 ---
-## Connect
+
+# Connect
 
 <div align="center">
 
 <a href="mailto:suchendra017@gmail.com">
+
 <img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
+
+&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/suchendra-a-181718abd/">
+
 <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
+&nbsp;&nbsp;
+
 <a href="assets/resume.pdf">
+
 <img src="https://img.shields.io/badge/Resume-181717?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+
 </a>
 
 </div>
@@ -230,6 +375,6 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Suchendra-01
 
 <div align="center">
 
-<sub>Designed & Maintained by Suchendra A</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0d1117,100:24292e"/>
 
 </div>
