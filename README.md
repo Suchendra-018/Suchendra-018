@@ -305,7 +305,7 @@ CNN powered handwritten digit recognition application built using TensorFlow.
 <br>
 
 <p align="center">
-Feel free to connect for collaboration, open-source contributions, internships, or software development discussions.
+<b>Feel free to connect for collaboration, open-source contributions, internships, or software development discussions.<b>
 </p>
 
 ---
