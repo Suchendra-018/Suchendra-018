@@ -75,9 +75,6 @@ Cambridge Institute of Technology • Bengaluru, India
 
 </div>
 
-<br>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Suchendra-018&theme=github-dark&hide_border=true"/>
 
 ---
 
