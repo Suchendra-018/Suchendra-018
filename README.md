@@ -11,52 +11,22 @@
 Cambridge Institute of Technology • Bengaluru, India
 
 <br>
+<div align="center">
 
 <a href="mailto:suchendra017@gmail.com">
 <img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-&nbsp;
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/suchendra-a-181718abd/">
 <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-&nbsp;
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="assets/resume.pdf">
 <img src="https://img.shields.io/badge/Resume-181717?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
 </div>
-
 ---
-
-<table align="center">
-
-<tr>
-
-<td width="32%" align="center">
-
-<img src="assets/profile.png" width="190"/>
-
-</td>
-
-<td width="68%" valign="top">
-
-## About
-
-🎓 Information Science Engineering Student
-
-🏫 Cambridge Institute of Technology
-
-💻 Interested in Software Engineering, Backend Development and Artificial Intelligence
-
-🚀 Building practical software through modern technologies and continuous learning
-
-</td>
-
-</tr>
 
 </table>
 
@@ -114,15 +84,10 @@ Cambridge Institute of Technology • Bengaluru, India
 
 ---
 
-# GitHub Overview
+
+<h2 align="center">GitHub Dashboard</h2>
 
 <div align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suchendra-018&theme=github_dark"/>
-
-</div>
-
-<br>
 
 <table>
 
@@ -130,13 +95,29 @@ Cambridge Institute of Technology • Bengaluru, India
 
 <td>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Suchendra-018&theme=github_dark"/>
+<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Suchendra-018&theme=github_dark"/>
 
 </td>
 
 <td>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Suchendra-018&theme=github_dark&utcOffset=5.5"/>
+<img height="190" src="https://streak-stats.demolab.com?user=Suchendra-018&theme=github-dark-blue&hide_border=true"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suchendra-018&layout=compact&hide_border=true&theme=github_dark"/>
+
+</td>
+
+<td>
+
+<img height="190" src="https://github-profile-trophy.vercel.app/?username=Suchendra-018&theme=onestar&column=2&no-bg=true&no-frame=true"/>
 
 </td>
 
@@ -144,9 +125,15 @@ Cambridge Institute of Technology • Bengaluru, India
 
 </table>
 
+</div>
+
+<br>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Suchendra-018&theme=github-dark&hide_border=true"/>
+
 ---
 
-# Technology Stack
+<h2 align="center">Technology Stack</h2>
 
 <div align="center">
 
@@ -278,103 +265,47 @@ CNN powered handwritten digit recognition application built using TensorFlow.
 </table>
 
 ---
-
-# Contribution Activity
+<h2 align="center">GitHub Activity</h2>
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Suchendra-018/Suchendra-018/output/github-contribution-grid-snake-dark.svg"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Suchendra-018&theme=github-dark&hide_border=true"/>
+
+<br><br>
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suchendra-018&theme=github_dark"/>
 
 </div>
 
 ---
 
-# GitHub Metrics
 
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/Suchendra-018/Suchendra-018/output/github-metrics.svg"/>
-
-</div>
-
----
-
-# Development Statistics
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Suchendra-018&theme=github_dark"/>
-
-</td>
-
-<td>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Suchendra-018&theme=github_dark"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Suchendra-018&theme=github_dark"/>
-
-</td>
-
-<td>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Suchendra-018&theme=github_dark&utcOffset=5.5"/>
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
----
-
-# Connect
+#<h2 align="center">Let's Connect</h2>
 
 <div align="center">
 
 <a href="mailto:suchendra017@gmail.com">
-
-<img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white"/>
-
+<img height="55" src="https://img.shields.io/badge/Gmail-181717?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/suchendra-a-181718abd/">
-
-<img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
+<img height="55" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="assets/resume.pdf">
-
-<img src="https://img.shields.io/badge/Resume-181717?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-
+<img height="55" src="https://img.shields.io/badge/Resume-D32F2F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
 </div>
 
+<br>
+
+<p align="center">
+Feel free to connect for collaboration, open-source contributions, internships, or software development discussions.
+</p>
+
 ---
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0d1117,100:24292e"/>
-
-</div>
