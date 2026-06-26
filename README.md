@@ -40,12 +40,14 @@ Cambridge Institute of Technology • Bengaluru, India
 <table>
 
 <tr>
-
 <td>
+<div align="center">
 
-<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Suchendra-018&theme=github_dark"/>
+<img src="https://komarev.com/ghpvc/?username=Suchendra-018&label=Profile%20Views&style=for-the-badge&color=0d1117"/>
 
+</div>
 </td>
+
 
 <td>
 
@@ -62,12 +64,13 @@ Cambridge Institute of Technology • Bengaluru, India
 <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suchendra-018&layout=compact&hide_border=true&theme=github_dark"/>
 
 </td>
-
 <td>
 
-<img height="190" src="https://github-profile-trophy.vercel.app/?username=Suchendra-018&theme=onestar&column=2&no-bg=true&no-frame=true"/>
+<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Suchendra-018&theme=github_dark"/>
 
 </td>
+
+<br>
 
 </tr>
 
