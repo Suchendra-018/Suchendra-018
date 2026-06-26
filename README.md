@@ -1,14 +1,11 @@
 <div align="center">
-
 <img src="assets/banner.png" width="100%" alt="Banner"/>
-
 <br>
 
 # Suchendra A
 
 ### Information Science Engineering
-
-Cambridge Institute of Technology • Bengaluru, India
+<b>Cambridge Institute of Technology • Bengaluru, India<b>
 
 <br>
 <div align="center">
