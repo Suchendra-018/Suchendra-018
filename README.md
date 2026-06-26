@@ -32,7 +32,7 @@ Cambridge Institute of Technology • Bengaluru, India
 
 ---
 
-# GitHub Analytics
+<h2 align="center">GitHub Analytics</h2>
 
 <div align="center">
 
@@ -40,31 +40,15 @@ Cambridge Institute of Technology • Bengaluru, India
 
 <tr>
 
-<td>
+<td align="center">
 
-<img height="185" src="https://github-readme-stats.vercel.app/api?username=Suchendra-018&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=github_dark"/>
-
-</td>
-
-<td>
-
-<img height="185" src="https://streak-stats.demolab.com?user=Suchendra-018&theme=github-dark-blue&hide_border=true"/>
+<img height="190" src="https://streak-stats.demolab.com?user=Suchendra-018&theme=github-dark-blue&hide_border=true"/>
 
 </td>
 
-</tr>
+<td align="center">
 
-<tr>
-
-<td>
-
-<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suchendra-018&layout=compact&langs_count=8&hide_border=true&theme=github_dark"/>
-
-</td>
-
-<td>
-
-<img height="185" src="https://github-profile-trophy.vercel.app/?username=Suchendra-018&theme=onestar&column=2&margin-h=15&margin-w=15&no-frame=true&no-bg=true"/>
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suchendra-018&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
 
 </td>
 
@@ -72,9 +56,13 @@ Cambridge Institute of Technology • Bengaluru, India
 
 </table>
 
+<br>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Suchendra-018&theme=github-dark&hide_border=true"/>
+
 </div>
 
-<br>
+---
 
 <div align="center">
 
