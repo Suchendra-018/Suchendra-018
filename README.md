@@ -18,10 +18,6 @@
 <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>&nbsp;&nbsp;&nbsp;
 
-<a href="assets/resume.pdf">
-<img src="https://img.shields.io/badge/Resume-181717?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-</a>
-
 </div>
 ---
 
@@ -240,10 +236,6 @@ CNN powered handwritten digit recognition application built using TensorFlow.
 </a>
 
 &nbsp;&nbsp;&nbsp;
-
-<a href="assets/resume.pdf">
-<img height="55" src="https://img.shields.io/badge/Resume-D32F2F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-</a>
 
 </div>
 
